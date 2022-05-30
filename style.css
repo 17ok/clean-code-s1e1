@@ -159,12 +159,12 @@ button{
 
 /* Edit Task */
 .section-list .list-item .text-task {
-  display:none
+  display: none
 }
 
 .section-list .list-item.edit-mode .text-task {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .section-list .list-item.edit-mode .label {
